@@ -1,2 +1,11 @@
 # Indore_tourism
-indore city tourism website 
+Indore city tourism website 
+
+Used Languages 
+
+HTML5
+
+
+css3
+
+JavaScript 
